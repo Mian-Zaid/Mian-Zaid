@@ -45,11 +45,15 @@
 
 ---------------------------
 
-💌 If you're interested in working together, please don't hesitate to reach out to me on LinkedIn, via email (zaid7296@gmail.com), or on WhatsApp (+923121686494). I look forward to connecting with you!
+💌 If you're interested in working together, please don't hesitate to reach out to me via
 
-Cheers,
-Muhammad Zaid Ali
+- 📫 How to reach me: 
+- LinkedIn https://www.linkedin.com/in/muhammad-zaid-ali/
+- Email zaid7296@gmail.com
+- WhatsApp +923121686494
 
+
+Cheers
 
 <!--
 **Mian-Zaid/Mian-Zaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

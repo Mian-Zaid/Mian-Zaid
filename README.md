@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 Hi there! Thank you for taking the time to visit my profile.
+### 👋 Hi there! Thank you for taking the time to visit my profile.
 
 🔸 I'm Muhammad Zaid Ali, a skilled 📱 Android developer and 💻 WebRTC consultant with a strong track record of delivering successful projects for clients.
 

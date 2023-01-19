@@ -23,31 +23,33 @@
 🚀 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 𝐎𝐅𝐅𝐄𝐑𝐄𝐃
 
 🔹 1:1 consulting for WebRTC-based Android Solutions
+
 🔹 Custom Android Application Development
+
 🔹 Custom Android SDKs Development
+
 🔹 WebRTC Research & Development
 
 ---------------------------
 
 🧑‍💼 𝐒𝐊𝐈𝐋𝐋𝐒 𝐀𝐍𝐃 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
 
-🔸 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C/C++, Java, Kotlin, JavaScript, Go
-🔸 𝐓𝐨𝐨𝐥𝐬: Android Studio, CLion, GitHub, GitLab, Firebase, Visual Studio, CMake
-🔸 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: WebRTC, VoIP, AR Core, Android, AOSP, Linux, Windows
+- 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C/C++, Java, Kotlin, JavaScript, Go
+- 𝐓𝐨𝐨𝐥𝐬: Android Studio, CLion, GitHub, GitLab, Firebase, Visual Studio, CMake
+- 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: WebRTC, VoIP, AR Core, Android, AOSP, Linux, Windows
 
 ---------------------------
 
 🤝 𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋 𝐐𝐔𝐀𝐋𝐈𝐓𝐈𝐄𝐒
 
-🔹 Strong team player with excellent communication and problem-solving abilities.
-🔹 Dedicated to continuous learning and growth as a person and developer.
-🔹 Passionate about Travel, Technology, The Universe, and the Laws that govern it.
+- Strong team player with excellent communication and problem-solving abilities.
+- Dedicated to continuous learning and growth as a person and developer.
+- Passionate about Travel, Technology, The Universe, and the Laws that govern it.
 
 ---------------------------
 
 💌 If you're interested in working together, please don't hesitate to reach out to me via
 
-- 📫 How to reach me: 
 - LinkedIn https://www.linkedin.com/in/muhammad-zaid-ali/
 - Email zaid7296@gmail.com
 - WhatsApp +923121686494

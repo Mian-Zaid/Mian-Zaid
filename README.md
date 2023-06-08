@@ -1,66 +1,53 @@
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Mian is Coding">
-</div>
+<img align="right" alt="Coder GIF" height=400 width=500 src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
-### 👋 Hi there! Thank you for taking the time to visit my profile.
+## 👋 Hello Fellow < Developers />
 
-🔸 I'm Muhammad Zaid Ali, a skilled 📱 Android developer and 💻 WebRTC consultant with a strong track record of delivering successful projects for clients.
 
-🔸 Over the last 4 years, I've helped both enterprises and startups in creating custom Android applications, Android SDKs, MVPs, and POCs for WebRTC conferencing. From inception to completion, 🚀 I have played a key role in the development process.
+I'm Muhammad Zaid Ali, a skilled 📱 **Android** & **WebRTC** developer with passion to build Video Conferencing Solutions.
 
----------------------------
+.
 
-🏆 𝐊𝐄𝐘 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒
+I'm currently working at [RailTown](https://rail.town/), as a WebRTC Software Developer.
 
-🔹 Developed and delivered a custom live audio Android SDK as a member of a cross-functional team of 7.
+.
 
-🔹 Improved voice group capabilities by integrating Janus Media Server, resulting in low latency and support for up to 100 people.
+I'm obsessed with the idea of improving myslef and explore new things everyday.
 
-🔹 Researched and created 3 live audio/video Proof of Concept demos for Mobile, Android, and Desktop platforms, leading to a 20% improvement in video quality and transmission latency.
+.
 
-🔹 Co-founded Marshcamp, a startup where I am involved in business development and the identification of market gaps and user pain points through research and analysis of the local tourism market in Pakistan.
+### About me
 
-🔹 Designed and developed a customized end-to-end solution for the Tourism Market place.
+- Over the last 4 years, I've helped both enterprises and startups in creating custom Android applications, Android SDKs, MVPs, and POCs for WebRTC conferencing. 
+- Co-founded Marshcamp, a startup where I am involved in business & product development to promote the local tourism in Pakistan.
 
----------------------------
+### Services I offer
 
-🚀 𝐒𝐄𝐑𝐕𝐈𝐂𝐄𝐒 𝐎𝐅𝐅𝐄𝐑𝐄𝐃
+- 1:1 consultion for WebRTC Video Conferencing Solutions
+- Android Application & customised SDK Development
+- WebRTC Research & Development
 
-🔹 1:1 consulting for WebRTC-based Android Solutions
 
-🔹 Custom Android Application Development
-
-🔹 Custom Android SDKs Development
-
-🔹 WebRTC Research & Development
-
----------------------------
-
-🧑‍💼 𝐒𝐊𝐈𝐋𝐋𝐒 𝐀𝐍𝐃 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
+### Skillset
 
 - 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C/C++, Java, Kotlin, JavaScript, Go
 - 𝐓𝐨𝐨𝐥𝐬: Android Studio, CLion, GitHub, GitLab, Firebase, Visual Studio, CMake
 - 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: WebRTC, VoIP, AR Core, Android, AOSP, Linux, Windows
 
----------------------------
 
-🤝 𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋 𝐐𝐔𝐀𝐋𝐈𝐓𝐈𝐄𝐒
+### Personal qualities
 
 - Strong team player with excellent communication and problem-solving abilities.
 - Dedicated to continuous learning and growth as a person and developer.
 - Passionate about Travel, Technology, The Universe, and the Laws that govern it.
 
----------------------------
-
-💌 If you're interested in working together, please don't hesitate to reach out to me via
+### 💌 Interested in working together? please reach out
 
 - LinkedIn https://www.linkedin.com/in/muhammad-zaid-ali/
-- Email zaid7296@gmail.com
+- Email [zaid7296@gmail.com](zaid7296@gmail.com)
 - WhatsApp +923121686494
 
 
-Cheers
-
+**Cheers**
 <!--
 **Mian-Zaid/Mian-Zaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

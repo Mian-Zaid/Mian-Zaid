@@ -12,7 +12,7 @@ I'm Muhammad Zaid Ali, a skilled 📱 **Android** & **WebRTC** developer with pa
 
 .
 
-I'm currently working at [RailTown](https://rail.town/), as a WebRTC Software Developer.
+I'm currently working at [Spark Science](https://spark.science/) a [RailTown's](https://rail.town/) startup as a WebRTC Software Developer.
 
 .
 

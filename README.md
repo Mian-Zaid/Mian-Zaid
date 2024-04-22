@@ -1,8 +1,4 @@
 
-
-<img align="right" alt="Coder GIF" height=380 width=480
-     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR2YTlvaW1nMjJrcDFodW9teWx1emc2MXUxcm1jMmZmN2hzZG4xNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" />
-
 --------------------------------------
 
 ## 👋 Hey Fellow < Developers />

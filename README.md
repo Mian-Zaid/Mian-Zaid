@@ -1,14 +1,14 @@
 
 
 <img align="right" alt="Coder GIF" height=380 width=480
-     src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" />
+     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR2YTlvaW1nMjJrcDFodW9teWx1emc2MXUxcm1jMmZmN2hzZG4xNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" />
 
 --------------------------------------
 
 ## 👋 Hey Fellow < Developers />
 
 
-I'm Muhammad Zaid Ali, a skilled 📱 **Android** & **WebRTC** developer with passion to build Video Conferencing Solutions.
+I'm Muhammad Zaid Ali, a skilled 📱 **Android** & **WebRTC** developer with a passion for building Video Conferencing Solutions.
 
 .
 
